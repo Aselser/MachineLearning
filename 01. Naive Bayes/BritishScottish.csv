@@ -1,0 +1,14 @@
+scones,beer,whisky,oats,soccer,Nationality
+0,0,1,1,1,British
+1,0,1,1,0,British
+1,1,0,0,1,British
+1,1,0,0,0,British
+0,1,0,0,1,British
+0,0,0,1,0,British
+1,0,0,1,1,Scottish
+1,1,0,0,1,Scottish
+1,1,1,1,0,Scottish
+1,1,0,1,0,Scottish
+1,1,0,1,1,Scottish
+1,0,1,1,0,Scottish
+1,0,1,0,0,Scottish
